@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">KonbiUserRegistration</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="cloud_url">Cloud URL</string>
+    <string name="client_id">Client ID</string>
+    <string name="client_secret">Client Secret</string>
+    <string name="save">Save</string>
+    <string name="user_id">Enter UserID</string>
+    <string name="saved_successfully">Saved successfully</string>
+    <string name="processing">Processing</string>
+    <string name="subsidy_rule_1">Card User</string>
+    <string name="subsidy_rule_2">Web User</string>
+    <string name="card_number">Card Number (ccwid1)</string>
+    <string name="card_number1">Card Number (ccwid1) (Optional)</string>
+    <string name="user_name">Username (Optional)</string>
+    <string name="email">Email</string>
+    <string name="password">Password (Optional)</string>
+    <string name="user_role">User role (Optional)</string>
+    <string name="select_user_type">Select user type</string>
+    <string name="ccwid1_mandatory">Card number field is mandatory</string>
+    <string name="email_mandatory">Email Mandatory</string>
+    <string name="register_as">Register as:</string>
+    <string name="optional_data">Optional Information:</string>
+    <string name="card_number_mandatory">Card number mandatory</string>
+    <string name="card_reader_app_is_not_installed">CardReaderManager app is not installed</string>
+</resources>
